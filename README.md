@@ -107,5 +107,5 @@ Propriedade | Tipo | Retorno | Observação
 <br>
 *`alternativa.e`* = Alternativa E da questão.
 
-
+![Representação gráfica de cada ponto do objeto.](https://github.com/Vestibular-data/enem_data/blob/main/misc/prova_objeto.png)
 
